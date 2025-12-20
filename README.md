@@ -1,2 +1,2 @@
-Welcom to git fundamentals
-## Your stage
+Welcome to git fundamentals
+Your stage
